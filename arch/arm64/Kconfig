@@ -1607,3 +1607,6 @@ source "arch/arm64/crypto/Kconfig"
 endif
 
 source "lib/Kconfig"
+
+config CONFIG_COMPAT_VDSO
+	def_bool n
