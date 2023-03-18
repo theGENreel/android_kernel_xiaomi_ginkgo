@@ -1,0 +1,1 @@
+18.03.2023: First build success. Builded with clang-aosp r365631c. Need to add LD_LIBRARY_PATH=PATH_TO_CLANG/lib64 for ld.gold to work.
