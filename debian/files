@@ -1,0 +1,7 @@
+linux-android-xiaomi-ginkgo_0.0.0+git20230318155406.087e945.bookworm_arm64.buildinfo kernel optional
+linux-bootimage-4.14.309-xiaomi-ginkgo_0.0.0+git20230318155406.087e945.bookworm_arm64.deb kernel optional
+linux-bootimage-xiaomi-ginkgo_0.0.0+git20230318155406.087e945.bookworm_arm64.deb kernel optional
+linux-headers-4.14.309-xiaomi-ginkgo_0.0.0+git20230318155406.087e945.bookworm_arm64.deb kernel optional
+linux-headers-xiaomi-ginkgo_0.0.0+git20230318155406.087e945.bookworm_arm64.deb kernel optional
+linux-image-4.14.309-xiaomi-ginkgo_0.0.0+git20230318155406.087e945.bookworm_arm64.deb kernel optional
+linux-image-xiaomi-ginkgo_0.0.0+git20230318155406.087e945.bookworm_arm64.deb kernel optional
